@@ -40,7 +40,8 @@ I'm a passionate Software Developer currently innovating at Wixcorp, with a stro
 ### 📬 Get in Touch
 
     Email: bjr.socialplatform@gmail.com
-    LinkedIn: [Bryan Ralphs](https://www.linkedin.com/in/bryan-j-ralphs/)
+    
+    LinkedIn: https://www.linkedin.com/in/bryan-j-ralphs/
     
 
 ### 🛠️ Top Skills
@@ -60,7 +61,7 @@ Wixcorp - Software Developer (Jan 2023 - Present)
 
 Utah Valley University
 
-    Bachelors, Computer Software Engineering (2018 - Aug 2023)
+    Bachelors, Computer Software Development (2018 - Aug 2023)
     Associate's degree, Business Administration and Management (Jul 2020 - Jul 2023)
     Associate's degree, General Studies (Jan 2018 - May 2021)
     
