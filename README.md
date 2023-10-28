@@ -37,13 +37,13 @@ I'm a passionate Software Developer currently innovating at Wixcorp, with a stro
 
 👯 I’m currently open for work and employment opportunities (remote and relocation)
   
-📬 Get in Touch
+### 📬 Get in Touch
 
     Email: bjr.socialplatform@gmail.com
-    LinkedIn: Bryan J Ralphs
+    LinkedIn: Bryan Ralphs
     GitHub: @bjralphs
 
-🛠️ Top Skills
+### 🛠️ Top Skills
 
     C#
     .NET Framework
@@ -88,7 +88,7 @@ Utah Valley University
     Associate's degree, Business Administration and Management (Jul 2020 - Jul 2023)
     Associate's degree, General Studies (Jan 2018 - May 2021)
 
-🍃 When I'm Away from the Keyboard
+### 🍃 When I'm Away from the Keyboard
 
 When I'm not delving into code, you can find me:
 
