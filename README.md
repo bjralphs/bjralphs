@@ -62,7 +62,9 @@ Wixcorp - Software Developer (Jan 2023 - Present)
 Utah Valley University
 
     Bachelors, Computer Software Development (2018 - Aug 2023)
+    
     Associate's degree, Business Administration and Management (Jul 2020 - Jul 2023)
+    
     Associate's degree, General Studies (Jan 2018 - May 2021)
     
 ### 🎖️ Certifications
@@ -74,7 +76,9 @@ Utah Valley University
 When I'm not delving into code, you can find me:
 
     🌄 Exploring Utah's captivating outdoors
+    
     📚 Diving into impactful books
+    
     🤝 Building meaningful relationships
 
 ### Where to find me online
