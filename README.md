@@ -50,37 +50,17 @@ I'm a passionate Software Developer currently innovating at Wixcorp, with a stro
     Agile Methodologies
     Full-Stack Development
 
-🎖️ Certifications
+### 🎖️ Certifications
 
     AlgoExpert DSA Certification
 
-💼 Experience
+### 💼 Experience
 Wixcorp - Software Developer (Jan 2023 - Present)
 
     Full-stack application development with database integration.
     Proficiency in C#, .NET Framework, SQL, Azure Data Studio, and Agile Methodologies.
 
-Personal Projects
-VisionGuard (Jul 2023 - Aug 2023)
-
-    Windows application promoting eye health.
-    Tools: JavaFX, FXML, Java Standard Library, Multithreading, Asynchronous Programming, MVC Architecture.
-
-YouTubeFocus (May 2023 - Jul 2023)
-
-    YouTube Browser Extension for enhanced productivity.
-    Skills: Browser Extension APIs, CSP, JavaScript, HTML, CSS.
-
-LendingClub - Credit Specialist (Jul 2021 - Aug 2023)
-
-    Client application analysis and loan application compliance maintenance.
-
-U.S. Bank
-
-    Client Relationship Consultant I (Mar 2019 - Jun 2021)
-    Peak-Time Teller (Mar 2018 - Mar 2019)
-
-📜 Education
+### 📜 Education
 
 Utah Valley University
 
