@@ -40,8 +40,8 @@ I'm a passionate Software Developer currently innovating at Wixcorp, with a stro
 ### 📬 Get in Touch
 
     Email: bjr.socialplatform@gmail.com
-    LinkedIn: Bryan Ralphs
-    GitHub: @bjralphs
+    LinkedIn: [Bryan Ralphs](https://www.linkedin.com/in/bryan-j-ralphs/)
+    
 
 ### 🛠️ Top Skills
 
@@ -50,11 +50,7 @@ I'm a passionate Software Developer currently innovating at Wixcorp, with a stro
     Agile Methodologies
     Full-Stack Development
 
-### 🎖️ Certifications
-
-    AlgoExpert DSA Certification
-
-### 💼 Experience
+### 💼 Work Experience
 Wixcorp - Software Developer (Jan 2023 - Present)
 
     Full-stack application development with database integration.
@@ -67,7 +63,11 @@ Utah Valley University
     Bachelors, Computer Software Engineering (2018 - Aug 2023)
     Associate's degree, Business Administration and Management (Jul 2020 - Jul 2023)
     Associate's degree, General Studies (Jan 2018 - May 2021)
+    
+### 🎖️ Certifications
 
+    AlgoExpert DSA Certification
+    
 ### 🍃 When I'm Away from the Keyboard
 
 When I'm not delving into code, you can find me:
@@ -76,7 +76,7 @@ When I'm not delving into code, you can find me:
     📚 Diving into impactful books
     🤝 Building meaningful relationships
 
-### Where to find me
+### Where to find me online
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-j-ralphs/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Ralphs_Grocery) 
