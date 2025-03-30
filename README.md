@@ -53,7 +53,7 @@ I'm a passionate Software Developer, with a strong background in fintech and hea
 ### 💼 Work Experience
 Wixcorp - Software Developer (Jan 2023 - Present)
 
-    Full-stack application development with database integration.
+    Full-stack application development.
     Proficiency in C#, .NET Framework, SQL, Azure Data Studio, and Agile Methodologies.
 
 ### 📜 Education
@@ -83,5 +83,3 @@ When I'm not delving into code, you can find me:
 ### Where to find me online
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-j-ralphs/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Ralphs_Grocery) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/bryan.ralphs.3/) 
