@@ -57,7 +57,10 @@ Wixcorp - Software Developer (Jan 2023 - Present)
     Proficiency in C#, .NET Framework, SQL, Azure Data Studio, and Agile Methodologies.
 
 ### 📜 Education
+Georgia Institute of Technology
 
+    Masters, Computer Science (2025 - Aug 2027)
+    
 Utah Valley University
 
     Bachelors, Computer Software Development (2018 - Aug 2023)
