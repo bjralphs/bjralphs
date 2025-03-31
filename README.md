@@ -31,7 +31,7 @@ Welcome to my GitHub! 🚀</h1>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
   
 
-I'm a passionate Software Developer, with a strong background in fintech and healthtech. With 4+ years experience under my belt, I'm on an ambitious journey to leverage software to magnify human potential.
+I'm a passionate Software Developer, with a strong background in fintech and healthtech. I am on an ambitious journey to leverage software to magnify human potential.
 
 "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living." - Nelson Mandela
 
